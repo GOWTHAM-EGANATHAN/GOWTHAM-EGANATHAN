@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gowtham05862093" target="blank"><img src="https://img.shields.io/twitter/follow/gowtham05862093?logo=twitter&style=for-the-badge" alt="gowtham05862093" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon Alexa Skills**
+- 🔭 I’m currently working on **Amazon India**
 
 - 🌱 I’m currently learning **Cypress , React**
 
