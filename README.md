@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
-<h3 align="center">A passionate SDET from India.Currently working in AMAZON INDIA - Alexa Skills Project.</h3>
+<h3 align="center">A passionate Software Test Engineer from India.Currently working in AMAZON INDIA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowtham-eganathan&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham-eganathan" /> </p>
 
