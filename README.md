@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Amazon India**
 
-- 🌱 I’m currently learning **Cypress , React**
+- 🌱 I’m currently learning **Cypress**
 
 - 💬 Ask me about **Java , Selenium**
 
